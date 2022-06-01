@@ -1,0 +1,45 @@
+.container-login {
+    height: 83.5vh;  
+    padding-top:50px;  
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    width: 448px;    
+    margin: 0 auto;          
+} 
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root.btn-login {
+    width: 206px;
+    height: 40px;
+    align-self: center;
+    margin-top: 40px;
+    background-color: var(--red);
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root.btn-login:hover {
+    background-color: var(--red-hover);
+}
+
+
+.login-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: var(--red);
+    padding-bottom: 50px;
+}
+
+.link-register {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.link-register a {
+    text-decoration: none;
+}
+
+

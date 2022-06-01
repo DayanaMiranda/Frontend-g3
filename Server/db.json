@@ -1,0 +1,138 @@
+{
+  "products-category": [
+    {
+      "id": "1",
+      "category": "Categoria 1",
+      "image": "https://dreamexoticrentalcars.com/wp-content/uploads/bentley-bentayga-lf-1-750x500.jpg",
+      "alt": "texto",
+      "title": "Categoria 1",
+      "description": "29.452 carros disponíveis"
+    },
+    {
+      "id": "2",
+      "category": "Categoria 2",
+      "image": "https://dreamexoticrentalcars.com/wp-content/uploads/aston-martin-vantage-green-1.jpg",
+      "alt": "texto",
+      "title": "Categoria 2",
+      "description": "Informação sobreo o carro"
+    },
+    {
+      "id": "3",
+      "category": "Categoria 3",
+      "image": "https://dreamexoticrentalcars.com/wp-content/uploads/chevy-c8-lf-1-750x500.jpg",
+      "alt": "texto",
+      "title": "Categoria 3",
+      "description": "Informação sobreo o carro"
+    },
+    {
+      "id": "4",
+      "category": "Categoria 4",
+      "image": "https://dreamexoticrentalcars.com/wp-content/uploads/ferrari-812-sf-lf-750x500.jpg",
+      "alt": "texto",
+      "title": "Categoria 4",
+      "description": "Informação sobreo o carro"
+    },
+    {
+      "id": "5",
+      "category": "Premium",
+      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872",
+      "alt": "texto",
+      "title": "titulo",
+      "description": "Informação sobreo o carro"
+    },
+    {
+      "id": "6",
+      "category": "Utilitario",
+      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464",
+      "alt": "texto",
+      "title": "titulo",
+      "description": "Informação sobreo o carro"
+    }
+  ],
+  "products-recommendations": [
+    {
+      "id": "1",
+      "category": "Categoria 1",
+      "evaluation": "9.4",
+      "evaluationText": "Muito bom",
+      "image": "https://dreamexoticrentalcars.com/wp-content/uploads/ferrari-812-lf-750x500.jpg",
+      "alt": "texto",
+      "title": "Modelo/nome/motor",
+      "icon1": "https://cdn-icons-png.flaticon.com/512/100/100825.png",
+      "iconTitle": "Ar-condicionado",
+      "icon2": "https://cdn-icons-png.flaticon.com/512/638/638398.png",
+      "iconTitle2": "Direção hidráulica",
+      "description": "Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    },
+    {
+      "id": "2",
+      "category": "Categoria 2",
+      "evaluation": "9.6",
+      "evaluationText": "Muito bom",
+      "image": "https://dreamexoticrentalcars.com/wp-content/uploads/ferrari-458-italia-coupe-lft-frt-750x500.jpg",
+      "alt": "texto",
+      "title": "Modelo/nome/motor",
+      "icon1": "https://cdn-icons-png.flaticon.com/512/100/100825.png",
+      "iconTitle": "Ar-condicionado",
+      "icon2": "https://cdn-icons-png.flaticon.com/512/638/638398.png",
+      "iconTitle2": "Direção hidráulica",
+      "description": "Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    },
+    {
+      "id": "3",
+      "category": "Categoria 3",
+      "evaluation": "9.8",
+      "evaluationText": "Excelente",
+      "image": "https://dreamexoticrentalcars.com/wp-content/uploads/Lambo_Huracan_EVO_Spyder_17.jpg",
+      "alt": "texto",
+      "title": "Modelo/nome/motor",
+      "icon1": "https://cdn-icons-png.flaticon.com/512/100/100825.png",
+      "iconTitle": "Ar-condicionado",
+      "icon2": "https://cdn-icons-png.flaticon.com/512/638/638398.png",
+      "iconTitle2": "Direção hidráulica",
+      "description": "Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+      "id": "4",
+      "category": "Categoria 4",
+      "evaluation": "9.9",
+      "evaluationText": "Excelente",
+      "image": "https://dreamexoticrentalcars.com/wp-content/uploads/lambo-huracan-green-1.jpg",
+      "alt": "texto",
+      "title": "Modelo/nome/motor",
+      "icon1": "https://cdn-icons-png.flaticon.com/512/100/100825.png",
+      "iconTitle": "Ar-condicionado",
+      "icon2": "https://cdn-icons-png.flaticon.com/512/638/638398.png",
+      "iconTitle2": "Direção hidráulica",
+      "description": "Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+      "id": "5",
+      "category": "Premium",
+      "evaluation": "9.4",
+      "evaluationText": "Excelente",
+      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872",
+      "alt": "texto",
+      "title": "titulo",
+      "icon1": "https://cdn-icons-png.flaticon.com/512/100/100825.png",
+      "iconTitle": "Ar-condicionado",
+      "icon2": "https://cdn-icons-png.flaticon.com/512/638/638398.png",
+      "iconTitle2": "Dir. Hidráulica",
+      "description": "Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+      "id": "6",
+      "category": "Utilitario",
+      "evaluation": "9.9",
+      "evaluationText": "Excelente",
+      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872",
+      "alt": "texto",
+      "title": "titulo",
+      "icon1": "https://cdn-icons-png.flaticon.com/512/100/100825.png",
+      "iconTitle": "Ar-condicionado",
+      "icon2": "https://cdn-icons-png.flaticon.com/512/638/638398.png",
+      "iconTitle2": "Dir. Hidráulica",
+      "description": "Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    }
+  ]
+}
